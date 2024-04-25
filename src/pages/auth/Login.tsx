@@ -16,6 +16,7 @@ const Login = () => {
       >
         <GoogleAuth shape="circle" size="large" type="standard" width={275} />
       </Box>
+      {/* <GoogleAuth shape="circle" size="large" type="standard" width={275} /> */}
     </>
   );
 };
