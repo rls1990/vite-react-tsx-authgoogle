@@ -13,7 +13,7 @@ const NavigationBar = () => {
   return (
     <>
       <AppBar position="sticky">
-        <Toolbar>
+        <Toolbar variant="dense">
           <Typography variant="h6">My App</Typography>
           <IconButton
             sx={{ ml: "auto" }}
