@@ -1,5 +1,6 @@
 import Box from "@mui/material/Box";
 import GoogleAuth from "../../components/googleauth/GoogleAuth";
+import "./Login.css";
 
 const Login = () => {
   return (
