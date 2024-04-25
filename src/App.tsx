@@ -1,9 +1,12 @@
+import ThemeProv from "./components/theme/ThemeProv";
 import Routing from "./routes/Routing";
 
 function App() {
   return (
     <>
-      <Routing />
+      <ThemeProv>
+        <Routing />
+      </ThemeProv>
     </>
   );
 }
