@@ -6,7 +6,6 @@ function App() {
   return (
     <>
       <ThemeProv>
-        <NavigationBar />
         <Routing />
       </ThemeProv>
     </>
